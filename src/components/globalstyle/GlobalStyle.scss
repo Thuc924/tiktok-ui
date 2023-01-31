@@ -1,0 +1,22 @@
+:root {
+  --main-color: rgba(254, 44, 85, 1);
+
+  // Default Layout
+  --default-layout-header-height: 60px;
+  --default-layout-header-width: 1150px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-size: 62.5%;
+}
+
+a {
+  cursor: pointer;
+}
